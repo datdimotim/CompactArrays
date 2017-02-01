@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CompactArrays.iml" filepath="$PROJECT_DIR$/.idea/modules/CompactArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CompactArrays_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CompactArrays_main.iml" group="CompactArrays" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CompactArrays_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CompactArrays_test.iml" group="CompactArrays" />
+    </modules>
+  </component>
+</project>

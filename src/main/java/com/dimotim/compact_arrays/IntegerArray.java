@@ -1,6 +1,8 @@
 package com.dimotim.compact_arrays;
 
-public interface IntegerArray {
+import java.io.Serializable;
+
+public interface IntegerArray extends Serializable{
     void set(int position, long value);
     long get(int position);
 }
